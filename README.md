@@ -5,3 +5,5 @@
 ```bash
 composer install
 php artisan key:generate
+### Serve
+php artisan serve
